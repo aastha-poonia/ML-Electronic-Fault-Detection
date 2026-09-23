@@ -55,6 +55,19 @@ Model Evaluation
 - Google Colab
 
 ## Model Performance
+## Results
+
+### Confusion Matrix
+
+The confusion matrix shows the classification performance of the Random Forest model on the test dataset.
+
+![Confusion Matrix](confusion_matrix.png)
+
+### Feature Importance
+
+The feature importance plot shows the relative contribution of each electrical and thermal parameter to the model's predictions.
+
+![Feature Importance](feature_importance.png)
 
 The model achieved approximately 96.67% accuracy on the test dataset.
 
